@@ -1,5 +1,7 @@
 # website
 web site 개발 프로젝트 : MTube Premiun
+멀티캠퍼스 K-digital 교육 인공지능 서비스 개발 (A)반,
+MTube premium 프로젝트에 대한 개요입니다.
 원본 레퍼지토리 주소 : https://github.com/kjohhub/website
 
 ## 프로젝트 주제
